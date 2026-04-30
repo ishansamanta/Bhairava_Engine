@@ -73,6 +73,15 @@ echo "Secret Message" > input.txt
 4.IoT device data protection
 5.Custom security frameworks
 
+# Glimpse of the Engine
+<img width="1600" height="806" alt="2026-04-30" src="https://github.com/user-attachments/assets/ff76009d-b88c-4697-b161-45005bb85bcb" />
+
+1. Remember the password you entered for encrypting the file, which will be later required for decrypting it too. Wrong passwords wont allow you to decrypt it.
+
+2. Maintain the structure and syntax of the command for proper workflow and usage of the engine.
+
+3. More security related updates are coming soon.
+
 ## Security Notice
 This project is designed for educational and engineering purposes.
 While it uses strong cryptographic primitives, it is not yet formally audited for enterprise-grade production security.
